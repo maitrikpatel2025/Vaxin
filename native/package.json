@@ -1,0 +1,35 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "android": "set ANDROID_SDK_ROOT=C:/Users/maitr/AppData/Local/Android/Sdk && react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "start": "expo start"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.5",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "expo": "~42.0.1",
+    "expo-splash-screen": "~0.11.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native": "^0.64.2",
+    "react-native-dotenv": "^3.1.1",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-qrcode-svg": "^6.1.1",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-unimodules": "~0.14.5",
+    "react-native-web": "^0.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}

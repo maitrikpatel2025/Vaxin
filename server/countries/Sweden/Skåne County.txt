@@ -1,0 +1,147 @@
+Åhus
+Åkarp
+Anderslöv
+Ängelholm
+Ängelholms Kommun
+Arlöv
+Asmundtorp
+Åstorp
+Åstorps Kommun
+Bara
+Bårslöv
+Båstad
+Båstads Kommun
+Billeberga
+Billesholm
+Bjärnum
+Bjärred
+Bjuv
+Bjuvs Kommun
+Blentarp
+Broby
+Bromölla
+Bromölla Kommun
+Bunkeflostrand
+Burlövs Kommun
+Dalby
+Degeberga
+Ekeby
+Eslöv
+Eslövs Kommun
+Färlöv
+Fjälkinge
+Förslöv
+Furulund
+Gantofta
+Gärsnäs
+Genarp
+Glimåkra
+Glumslöv
+Häljarp
+Hammar
+Hanaskog
+Hässleholm
+Hässleholms Kommun
+Hästveda
+Helsingborg
+Hittarp
+Hjärnarp
+Hjärup
+Hofterup
+Höganäs
+Höganäs Kommun
+Hököpinge
+Höllviken
+Höör
+Höörs Kommun
+Hörby
+Hörby Kommun
+Hyllinge
+Jonstorp
+Kågeröd
+Kävlinge
+Kävlinge Kommun
+Klågerup
+Klippan
+Klippans Kommun
+Knislinge
+Köpingebro
+Kristianstad
+Kristianstads kommun
+Kvidinge
+Landskrona
+Ljungbyhed
+Ljunghusen
+Löberöd
+Löddeköpinge
+Lomma
+Lomma Kommun
+Lönsboda
+Lund
+Lunds Kommun
+Malmö
+Marieholm
+Mörarp
+Munka-Ljungby
+Näsum
+Norra Åsum
+Ödåkra
+Önnestad
+Örkelljunga
+Örkelljunga Kommun
+Osby
+Osby kommun
+Östra Göinge Kommun
+Östra Ljungby
+Oxie
+Påarp
+Perstorp
+Perstorps Kommun
+Rydebäck
+Rydsgård
+Sätofta
+Saxtorpsskogen
+Sibbhult
+Simrishamn
+Simrishamns kommun
+Sjöbo
+Sjöbo Kommun
+Skanör med Falsterbo
+Skåre
+Skegrie
+Skivarp
+Skurup
+Skurups Kommun
+Smygehamn
+Södra Sandby
+Sösdala
+Staffanstorp
+Staffanstorps Kommun
+Stångby
+Stehag
+Strövelstorp
+Svalöv
+Svalövs Kommun
+Svedala
+Svedala Kommun
+Teckomatorp
+Tollarp
+Tollarp1
+Tomelilla
+Tomelilla Kommun
+Torekov
+Tormestorp
+Trelleborg
+Trelleborgs Kommun
+Tygelsjö
+Tyringe
+Valje
+Veberöd
+Vejbystrand
+Vellinge
+Vellinge Kommun
+Viken
+Vinslöv
+Vittsjö
+Ystad
+Ystads Kommun

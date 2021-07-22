@@ -1,0 +1,180 @@
+Åkarp
+Alafors
+Ale Kommun
+Alingsås
+Alingsås Kommun
+Älvängen
+Åmål
+Åmåls Kommun
+Andalen
+Anderstorp
+Angered
+Annelund
+Axvall
+Bengtsfors
+Bengtsfors Kommun
+Billdal
+Billingsfors
+Björboholm
+Björkö
+Björlanda
+Bollebygd
+Bollebygds Kommun
+Borås
+Brålanda
+Brastad
+Dals Långed
+Dals-Ed Kommun
+Dalsjöfors
+Diseröd
+Donsö
+Ed
+Ellös
+Eriksbo
+Essunga Kommun
+Falköping
+Falköpings Kommun
+Färgelanda
+Färgelanda Kommun
+Floby
+Fristad
+Fritsla
+Furulund
+Gånghester
+Gårdsten
+Göta
+Göteborg
+Göteborgs stad
+Götene
+Götene Kommun
+Gråbo
+Grästorp
+Grästorps Kommun
+Grebbestad
+Gullspång
+Gullspångs Kommun
+Hammarkullen
+Härryda Kommun
+Henån
+Herrljunga
+Herrljunga Kommun
+Hindås
+Hjo
+Hjo Kommun
+Hjuvik
+Hönö
+Horred
+Hova
+Höviksnäs
+Hunnebostrand
+Ingared
+Jonstorp
+Jörlanda
+Källby
+Kållered
+Karlsborg
+Karlsborgs Kommun
+Kinna
+Kode
+Kungälv
+Kungälvs Kommun
+Kungshamn
+Kvänum
+Landvetter
+Länghem
+Lerum
+Lerums Kommun
+Lidköping
+Lidköpings Kommun
+Lilla Edet
+Lilla Edets Kommun
+Limmared
+Lindome
+Ljungskile
+Lödöse
+Lövgärdet
+Lysekil
+Lysekils Kommun
+Majorna
+Mariestad
+Mariestads Kommun
+Marks Kommun
+Mellerud
+Melleruds Kommun
+Mölltorp
+Mölndal
+Mölndals kommun
+Mölnlycke
+Munkedal
+Munkedals Kommun
+Myggenäs
+Nolvik
+Nossebro
+Öckerö
+Öckerö Kommun
+Ödsmål
+Öjersjö
+Olofstorp
+Olstorp
+Orust
+Partille
+Partille Kommun
+Rannebergen
+Rävlanda
+Rönnäng
+Sålanda
+Sandared
+Sätila
+Sjömarken
+Sjuntorp
+Skara
+Skara Kommun
+Skärhamn
+Skepplanda
+Skövde
+Skövde Kommun
+Skultorp
+Smögen
+Sollebrunn
+Sotenäs Kommun
+Stenkullen
+Stenstorp
+Stenungsund
+Stenungsunds Kommun
+Stöpen
+Stora Höga
+Strömstad
+Strömstads Kommun
+Styrsö
+Surte
+Svanesund
+Svenljunga
+Svenljunga Kommun
+Tanums Kommun
+Tanumshede
+Tibro
+Tibro Kommun
+Tidaholm
+Tidaholms kommun
+Tjörns Kommun
+Tjuvkil
+Töreboda
+Töreboda Kommun
+Torslanda
+Tranemo
+Tranemo Kommun
+Trollhättan
+Uddevalla
+Uddevalla Kommun
+Ulricehamn
+Ulricehamns Kommun
+Vänersborg
+Vänersborgs Kommun
+Vara
+Vara Kommun
+Vårgårda
+Vårgårda Kommun
+Vargön
+Västra Frölunda
+Vinninga
+Viskafors

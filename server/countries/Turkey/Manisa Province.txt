@@ -1,0 +1,30 @@
+Ahmetli
+Ahmetli İlçesi
+Akhisar
+Akhisar İlçesi
+Alaşehir
+Alaşehir İlçesi
+Demirci
+Demirci İlçesi
+Gölmarmara
+Gölmarmara İlçesi
+Gördes
+Gördes İlçesi
+Kırkağaç
+Kırkağaç İlçesi
+Köprübaşı
+Köprübaşı İlçesi
+Kula
+Manisa
+Salihli İlçesi
+Sarıgöl
+Sarıgöl İlçesi
+Saruhanlı
+Şehzadeler
+Selendi
+Selendi İlçesi
+Soma
+Soma İlçesi
+Turgutlu İlçesi
+Yunusemre
+Zeytinliova

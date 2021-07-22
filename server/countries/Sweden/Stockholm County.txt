@@ -1,0 +1,105 @@
+Akalla
+Åkersberga
+Alby
+Älmsta
+Älta
+Arnö
+Årsta
+Bergshamra
+Bollmora
+Boo
+Botkyrka Kommun
+Brevik
+Bro
+Bromma
+Brunn
+Brunna
+Dalarö
+Danderyds Kommun
+Djurö
+Djursholm
+Ekerö
+Ekerö Kommun
+Enebyberg
+Eriksberg
+Fisksätra
+Fittja
+Gamla Stan
+Gustavsberg
+Hallstavik
+Handen
+Haninge
+Haninge Kommun
+Hemmesta
+Hölö
+Huddinge
+Huddinge Kommun
+Jakobsberg
+Järfälla kommun
+Järna
+Jordbro
+Kista
+Kopparmora
+Kummelnäs
+Kungsängen
+Kungsholmen
+Långvik
+Lidingö
+Lindholmen
+Märsta
+Mölnbo
+Mörtnäs
+Nacka
+Nacka Kommun
+Norrtälje
+Norrtälje Kommun
+Nykvarn
+Nykvarns Kommun
+Nynäshamn
+Nynäshamns kommun
+Ösmo
+Österåkers Kommun
+Östermalm
+Pershagen
+Råsunda
+Resarö
+Rimbo
+Rindö
+Rönninge
+Rosersberg
+Salems Kommun
+Saltsjöbaden
+Segeltorp
+Sigtuna
+Sigtuna Kommun
+Skänninge
+Södermalm
+Södertälje
+Södertälje Kommun
+Sollentuna
+Sollentuna Kommun
+Solna
+Solna Kommun
+Stavsnäs
+Stenhamra
+Stockholm
+Stockholms Kommun
+Strömma
+Sundbyberg
+Sundbybergs Kommun
+Täby Kommun
+Tensta
+Tullinge
+Tumba
+Tyresö Kommun
+Upplands Väsby
+Upplands Väsby kommun
+Upplands-Bro Kommun
+Vallentuna
+Vallentuna Kommun
+Vårby
+Värmdö Kommun
+Vårsta
+Vasastan
+Vaxholm
+Vaxholms Kommun

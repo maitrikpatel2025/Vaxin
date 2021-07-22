@@ -1,0 +1,38 @@
+Acarlar
+Atça
+Aydın
+Bozdoğan
+Bozdoğan İlçesi
+Buharkent
+Buharkent İlçesi
+Çine
+Çine İlçesi
+Dalama
+Davutlar
+Didim
+Efeler
+Germencik
+Germencik İlçesi
+İncirliova
+İncirliova İlçesi
+İsabeyli
+Karacasu
+Karpuzlu
+Karpuzlu İlçesi
+Koçarlı
+Koçarlı İlçesi
+Köşk
+Köşk İlçesi
+Kuşadası
+Kuşadası İlçesi
+Kuyucak
+Kuyucak İlçesi
+Nazilli
+Sarıkemer
+Söke
+Söke İlçesi
+Sultanhisar
+Sultanhisar İlçesi
+Tepecik
+Yenipazar
+Yenipazar İlçesi

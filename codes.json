@@ -1,0 +1,7 @@
+{
+	"200": "success",
+	"201": "Username not available",
+	"202": "not logged in",
+	"203": "not found",
+	"204": "wrong password"
+}

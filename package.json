@@ -1,0 +1,26 @@
+{
+	"name": "covidportal",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"client": "cd client && npm start",
+		"server": "cd server && npm start",
+		"dev": "concurrently kill-others \"npm run server\" \"npm run client\"",
+		"heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/harshkanjariya/CovidPortal.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/harshkanjariya/CovidPortal/issues"
+	},
+	"homepage": "https://github.com/harshkanjariya/CovidPortal#readme",
+	"dependencies": {
+		"concurrently": "^6.2.0"
+	}
+}

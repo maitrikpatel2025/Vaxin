@@ -1,0 +1,53 @@
+Alaçatı
+Aliağa
+Bademli
+Balçova
+Bayındır
+Bayındır İlçesi
+Bayraklı
+Belevi
+Bergama
+Beydağ
+Bornova
+Buca
+Çandarlı
+Çaylı
+Çeşme
+Çeşme İlçesi
+Çiğli
+Dikili
+Dikili İlçesi
+Foça
+Foça İlçesi
+Gaziemir
+Gökçen
+Güzelbahçe
+İzmir
+Karabağlar
+Karaburun
+Karaburun İlçesi
+Karşıyaka İlçesi
+Kaymakçı
+Kemalpaşa
+Kiraz
+Kiraz İlçesi
+Kınık
+Kınık İlçesi
+Konak
+Konaklı
+Menderes
+Menemen
+Narlıdere
+Ödemiş
+Ödemiş İlçesi
+Özdere
+Seferihisar
+Selçuk
+Selçuk İlçesi
+Tire
+Torbalı
+Urla
+Urla İlçesi
+Yenifoça
+Yenişakran
+Zeytindağ
