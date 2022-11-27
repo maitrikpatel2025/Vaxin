@@ -40,23 +40,23 @@ Used Technology
 ### Product Design, Implementation, And System Operation
 
 
-## Software Diagram
+#### Software Diagram
 
  
 
-## Web portal:
+#### Web portal:
 We created a web portal for issue Vaccination Credential which can be used by health organizations or clinical authorities to create and manage individuals’ vaccination record. Hospital or clinic register themselves to web portal once's they are register then they can login to their health organization portal and create vaccination credentials for individuals or some who receive vaccine
 
 
 
-## Mobile App:
+#### Mobile App:
 Mobile application makes it easy for individuals to verify their vaccination status and view their vaccination information
   
 
 
 
 
-## Maintenance Requirements
+#### Maintenance Requirements
 The Vaxin pass requires minimal maintenance for proper operation. Factors that may affect the operation include the following:
 ⦁	Solve applicable Software Bugs
 ⦁	Regular Server Backups
@@ -71,3 +71,7 @@ The Vaxin pass requires minimal maintenance for proper operation. Factors that m
 The digital Vaxin passport will serve its purpose to allow people to go back to pre-pandemic situation. It will allow people to go back to schools, restaurants, travel abroad, etc who have already been vaccinated to this deadly disease if the government rules need vaxx status and pose less threat to the community by spreading the virus. Hence, ensuring the safety to travel and resume daily activities without carrying documentations and just a digital app on phone as already people and businesses have faced many challenges because of restriction imposed to prevent spread of Covid.
 
 For further developments, a proper user friendly and interactive GUI can be developed as the one included in the project is very basic. More functionalities can be added to the app. For example, user can switch between multiple [profiles without having to log out through tabs. We can also develop a digital wallet for quick access to QR code. As this project is not a real-world implementation, their no security for data is added. However, it can be added in future to ensure all the health details are safe and secure.
+
+### Developers
+⦁	Maitrik Patel
+⦁	Meshwa Patel
